@@ -1,0 +1,56 @@
+[
+    {
+      "title": "oblivion (2012)",
+      "rate": "8.1",
+      "director": "Joss Whedon",
+      "duration": "2h21’",
+      "img": "images/uploads/mv1.jpg",
+      "actors": "Robert Downey Jr., Chris Evans, Chris Hemsworth",
+      "date": "1 May 2015",
+      "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+    },
+    {
+      "title": "into the wild (2014)",
+      "rate": "7.8",
+      "director": "Joss Whedon",
+      "duration": "2h05’",
+      "img": "images/uploads/mv2.jpg",
+      "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+      "date": "15 Jun 2017",
+      "description":
+        "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+    },
+    {
+      "title": "BLADE RUNNER (2015)",
+      "rate": "7.3",
+      "director": "Peyton Reed",
+      "duration": "2h05’",
+      "img": "images/uploads/mv3.jpg",
+      "actors": "Paul Rudd, Michael Douglas",
+      "date": "5 Jan 2015",
+      "description":
+        "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+    },
+    {
+      "title": "MULHOLLAND PRIDE (2013)",
+      "rate": "7.2",
+      "director": "Shane Black",
+      "duration": "2h45’",
+      "img": "images/uploads/mv4.jpg",
+      "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+      "date": "15 Jun 2012",
+      "description":
+        "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    },
+    {
+      "title": "SKYFALL: EVIL OF BOSS (2013)",
+      "rate": "8.8",
+      "director": "Alan Taylor",
+      "duration": "2h05’",
+      "img": "images/uploads/mv5.jpg",
+      "actors": "Chris Hemsworth, Natalie Portman,Tom Hiddleston",
+      "date": "15 Jun 2017",
+      "description":
+        "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+    }
+  ]
